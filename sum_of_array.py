@@ -13,7 +13,5 @@ while i < 1:
 print("array is:", list1)
 
 for i in range(0, len(list1)):
-    a += list1[i]    
-
-print("Sum of all the elements of an array: " + str(a))
-
+    a += list1[i]
+print("Sum of all the elements of the array: ", a)
