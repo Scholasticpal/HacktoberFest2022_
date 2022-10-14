@@ -26,7 +26,7 @@ while i < 1:
     else:
         list1.append(x)
 #swap elements of list
-print(list1)
+print("the array is:", list1)
 print("select two positions to be swapped")
 n = int(input("first position: "))
 m = int(input("Second position: "))
