@@ -1,6 +1,3 @@
-list1 = []
-i = 0
-a = 0
 
 '''
 input:
@@ -14,6 +11,9 @@ array is: ["1", "2", "3",]
 Sum of all the elements of the array: 6
 '''
 
+list1 = []
+i = 0
+a = 0
 print("Input numbers and input 'end' to stop inputing")
 while i < 1:
     x = input()
